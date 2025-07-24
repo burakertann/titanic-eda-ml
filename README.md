@@ -39,5 +39,3 @@ Kullanılan sınıflandırma modelleri:
 - **VotingClassifier (soft voting)** kullanıldı (Random Forest + Decision Tree + Logistic Regression)
 - Final test tahminleri bu model üzerinden yapıldı
 
-## 📁 Klasör Yapısı
-
